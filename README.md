@@ -11,3 +11,4 @@ In this implementation, we followed three main approaches:
   - 2 - texture based ---> Gray level co-occurrence matrices(GLCM)---> features added : (1- contrast 2- dissimilarity 3- homogeneity 4- energy 5- correlation) 
 <br>
 3- hybrid method of 1 and 2  
+random forest ws used as the main classifier.
